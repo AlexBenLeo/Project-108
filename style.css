@@ -1,0 +1,38 @@
+.animals{
+    background: lightgreen;
+    color:black;
+    font-family: 'Yuji Mai', serif;
+}
+body{
+    text-align: center;
+    background:lightseagreen;
+    font-family: 'Lobster', cursive;
+    }
+.header_div{
+    background-color:lightgreen;
+    color:black;
+    }
+.header_div_p{
+    font-family: 'Lobster', cursive;
+    letter-spacing:10px;
+    font-size: 20px;
+    font-weight:bold;
+}
+.main_div button{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100px;
+    font-size:15px;
+    font-weight:bold;
+    letter-spacing:5px;
+    margin-top: 30px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:black;
+    width:100%;
+    font-size:20px;
+    line-height:3px;
+    text-align:center;
+    text-shadow:5px 5px 5px grey;
+    bottom:10px;
+}
